@@ -153,7 +153,7 @@
   {
     "name": "PaxAurora",
     "allyCode": "511279742",
-    "discordId": "405392848611966987"
+    "discordId": ""
   },
   {
     "name": "Pharc",
@@ -164,6 +164,11 @@
     "name": "Pon Tru",
     "allyCode": "258314944",
     "discordId": "180649560488673281"
+  },
+  {
+    "name": "RobiWan",
+    "allyCode": "259132849",
+    "discordId": "613775891599851550"
   },
   {
     "name": "Rodz Tah",
