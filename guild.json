@@ -25,6 +25,11 @@
     "tagIdOnDrop": "264283886408695810"
   },
   {
+    "name": "Calis",
+    "allyCode": "487277658",
+    "tagIdOnDrop": "319080402134237185"
+  },
+  {
     "name": "Capt SuckerPunch Gabriel",
     "allyCode": "979533943",
     "tagIdOnDrop": ""
@@ -33,11 +38,6 @@
     "name": "Chewbakkan",
     "allyCode": "144571568",
     "tagIdOnDrop": "253778877548068864"
-  },
-  {
-    "name": "Cirol",
-    "allyCode": "578817837",
-    "tagIdOnDrop": "143889148191834112"
   },
   {
     "name": "Dak Rin",
@@ -159,11 +159,6 @@
     "name": "Pon Tru",
     "allyCode": "258314944",
     "tagIdOnDrop": "180649560488673281"
-  },
-  {
-    "name": "RobiWan",
-    "allyCode": "259132849",
-    "tagIdOnDrop": "613775891599851550"
   },
   {
     "name": "Rodz Tah",
