@@ -20,6 +20,11 @@
     "tagIdOnDrop": "174359997373874178"
   },
   {
+    "name": "B I G GUNZZZ",
+    "allyCode": "395851796",
+    "tagIdOnDrop": "523291001381584897"
+  },
+  {
     "name": "Boombox",
     "allyCode": "492388165",
     "tagIdOnDrop": "264283886408695810"
@@ -37,7 +42,8 @@
   {
     "name": "Chewbakkan",
     "allyCode": "144571568",
-    "tagIdOnDrop": "253778877548068864"
+    "tagIdOnDrop": "253778877548068864",
+    "skip": "true"
   },
   {
     "name": "Dak Rin",
@@ -68,6 +74,11 @@
     "name": "FeniX",
     "allyCode": "992981993",
     "tagIdOnDrop": "504034359142252544"
+  },
+  {
+    "name": "Gold Roger Roger",
+    "allyCode": "273146723",
+    "tagIdOnDrop": "255955465257615360"
   },
   {
     "name": "Goon2016",
@@ -209,16 +220,6 @@
     "name": "Vaderlicious",
     "allyCode": "857365243",
     "tagIdOnDrop": "134013344314032128"
-  },
-  {
-    "name": "Warhogbacon",
-    "allyCode": "891291189",
-    "tagIdOnDrop": "260810622751473666"
-  },
-  {
-    "name": "Welsh warrior",
-    "allyCode": "379143713",
-    "discordId": "375381021274669057"
   },
   {
     "name": "WhiskeyDP",
