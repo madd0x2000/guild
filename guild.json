@@ -40,12 +40,6 @@
     "tagIdOnDrop": ""
   },
   {
-    "name": "Chewbakkan",
-    "allyCode": "144571568",
-    "tagIdOnDrop": "253778877548068864",
-    "skip": "true"
-  },
-  {
     "name": "Dak Rin",
     "allyCode": "264744319",
     "tagIdOnDrop": "404439772418015233"
@@ -74,11 +68,6 @@
     "name": "FeniX",
     "allyCode": "992981993",
     "tagIdOnDrop": "504034359142252544"
-  },
-  {
-    "name": "Gold Roger Roger",
-    "allyCode": "273146723",
-    "tagIdOnDrop": "255955465257615360"
   },
   {
     "name": "Goon2016",
@@ -200,11 +189,6 @@
     "name": "TechiesGoBoom",
     "allyCode": "984541615",
     "tagIdOnDrop": ""
-  },
-  {
-    "name": "thewanderer877",
-    "allyCode": "869411694",
-    "tagIdOnDrop": "731512007953743893"
   },
   {
     "name": "Meeraval Marnath",
