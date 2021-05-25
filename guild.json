@@ -50,11 +50,6 @@
     "tagIdOnDrop": "433326967962730531"
   },
   {
-    "name": "Drewsky",
-    "allyCode": "249699823",
-    "tagIdOnDrop": "378883556304486400"
-  },
-  {
     "name": "DSH",
     "allyCode": "681537475",
     "tagIdOnDrop": "303620209384882176"
@@ -73,6 +68,11 @@
     "name": "Goon2016",
     "allyCode": "422612228",
     "tagIdOnDrop": "415600527989276682"
+  },
+  {
+    "name": "Gooman",
+    "allyCode": "724131246",
+    "tagIdOnDrop": "358275211663114242"
   },
   {
     "name": "Gyro",
@@ -186,6 +186,11 @@
     "tagIdOnDrop": "202427396668915712"
   },
   {
+    "name": "Ronie",
+    "allyCode": "497737614",
+    "tagIdOnDrop": "269064655941402624"
+  },
+  {
     "name": "Sia Granta",
     "allyCode": "298981539",
     "tagIdOnDrop": ""
@@ -194,11 +199,6 @@
     "name": "skkol",
     "allyCode": "658396171",
     "tagIdOnDrop": "414838213719621633"
-  },
-  {
-    "name": "Sophus",
-    "allyCode": "145982722",
-    "discordId": "305499251969097735"
   },
   {
     "name": "spud",
@@ -229,6 +229,11 @@
     "name": "Violet Locke",
     "allyCode": "765629768",
     "tagIdOnDrop": "353180365344604171"
+  },
+  {
+    "name": "xBFx",
+    "allyCode": "677989293",
+    "tagIdOnDrop": "382032401037131777"
   },
   {
     "name": "Xciter",
