@@ -55,6 +55,11 @@
     "tagIdOnDrop": "303620209384882176"
   },
   {
+    "name": "DV",
+    "allyCode": "293547112",
+    "tagIdOnDrop": "291742120350449665"
+  },
+  {
     "name": "Eneroth",
     "allyCode": "433746926",
     "tagIdOnDrop": "413298254755790858"
@@ -73,6 +78,11 @@
     "name": "Gooman",
     "allyCode": "724131246",
     "tagIdOnDrop": "358275211663114242"
+  },
+  {
+    "name": "Grisj",
+    "allyCode": "891496754",
+    "tagIdOnDrop": "262713493768110086"
   },
   {
     "name": "Gyro",
@@ -156,11 +166,6 @@
     "tagIdOnDrop": "352904307739459584"
   },
   {
-    "name": "PaxAurora",
-    "allyCode": "511279742",
-    "tagIdOnDrop": ""
-  },
-  {
     "name": "Pharc",
     "allyCode": "278337718",
     "tagIdOnDrop": "268781097574203392"
@@ -234,11 +239,6 @@
     "name": "xBFx",
     "allyCode": "677989293",
     "tagIdOnDrop": "382032401037131777"
-  },
-  {
-    "name": "Xciter",
-    "allyCode": "141976714",
-    "tagIdOnDrop": "346794702223441930"
   },
   {
     "name": "Yan",
