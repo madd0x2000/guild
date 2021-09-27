@@ -5,7 +5,17 @@
     "tagIdOnDrop": "381058386520965121"
   },
   {
-    "name": "Boombox",
+    "name": "Alucard",
+    "allyCode": "315991536",
+    "tagIdOnDrop": "206482312085372929"
+  },
+  {
+    "name": "Blackmetal",
+    "allyCode": "133339467",
+    "tagIdOnDrop": "535763706928168970"
+  },
+  {
+    "name": "Boombox(guest)",
     "allyCode": "492388165",
     "tagIdOnDrop": "264283886408695810"
   },
@@ -20,6 +30,11 @@
     "tagIdOnDrop": "463635730846056479"
   },
   {
+    "name": "DarthJarJar",
+    "allyCode": "551645641",
+    "tagIdOnDrop": "311487509391605771"
+  },
+  {
     "name": "DarthPlagus CS",
     "allyCode": "264241866",
     "tagIdOnDrop": "237901555343425536"
@@ -30,14 +45,9 @@
     "tagIdOnDrop": "246012985456328704"
   },
   {
-    "name": "Dilk Tarlen",
-    "allyCode": "287217716",
-    "tagIdOnDrop": "304705143436476416"
-  },
-  {
-    "name": "Eneroth",
-    "allyCode": "433746926",
-    "tagIdOnDrop": "413298254755790858"
+    "name": "Embo Raz",
+    "allyCode": "993178275",
+    "tagIdOnDrop": "527663840540885002"
   },
   {
     "name": "FeniX",
@@ -45,9 +55,19 @@
     "tagIdOnDrop": "504034359142252544"
   },
   {
-    "name": "Goon2016",
-    "allyCode": "422612228",
-    "tagIdOnDrop": "415600527989276682"
+    "name": "force user 1",
+    "allyCode": "948747411",
+    "tagIdOnDrop": "468072909060046868"
+  },
+  {
+    "name": "Glosed",
+    "allyCode": "774747612",
+    "tagIdOnDrop": "499309798186287105"
+  },
+  {
+    "name": "Gold Roger Roger",
+    "allyCode": "273146723",
+    "tagIdOnDrop": "255955465257615360"
   },
   {
     "name": "Gooman",
@@ -70,6 +90,16 @@
     "tagIdOnDrop": "339490964047659020"
   },
   {
+    "name": "Hiimacks",
+    "allyCode": "382481358",
+    "tagIdOnDrop": "197595667374407680"
+  },
+  {
+    "name": "Hoot",
+    "allyCode": "631514828",
+    "tagIdOnDrop": "400447968404176916"
+  },
+  {
     "name": "Ilucide",
     "allyCode": "213153143",
     "tagIdOnDrop": "122329857156710400"
@@ -80,9 +110,14 @@
     "tagIdOnDrop": "543322439501742092"
   },
   {
-    "name": "Jorge heredia",
-    "allyCode": "133368437",
-    "tagIdOnDrop": "358322278901088268"
+    "name": "Jek Piggy Porkins III",
+    "allyCode": "837773812",
+    "tagIdOnDrop": "311692248544837635"
+  },
+  {
+    "name": "johno",
+    "allyCode": "377842376",
+    "tagIdOnDrop": "189783542547349504"
   },
   {
     "name": "Kioto Kai",
@@ -100,20 +135,40 @@
     "tagIdOnDrop": "350381669313937410"
   },
   {
+    "name": "LeiaAmidala",
+    "allyCode": "839729711",
+    "tagIdOnDrop": "390164878729412609"
+  },
+  {
+    "name": "Lōrd Saber",
+    "allyCode": "665857188",
+    "tagIdOnDrop": "323096902021414912"
+  },
+  {
     "name": "Madd0x",
     "allyCode": "119595788",
     "tagIdOnDrop": "",
     "userIcon": ":crown:"
   },
   {
-    "name": "Marcoethier",
-    "allyCode": "246995684",
-    "tagIdOnDrop": "496472811762614272"
+    "name": "MINI Coulomb",
+    "allyCode": "298117616",
+    "tagIdOnDrop": "356417103827304448"
   },
   {
-    "name": "MasterWilly",
-    "allyCode": "849528959",
-    "tagIdOnDrop": "491872064186089482"
+    "name": "MINI Dilk Tarlen",
+    "allyCode": "287217716",
+    "tagIdOnDrop": "304705143436476416"
+  },
+  {
+    "name": "MINI Jeevesy",
+    "allyCode": "153178818",
+    "tagIdOnDrop": "386895684512514048"
+  },
+  {
+    "name": "MINI Jorge heredia",
+    "allyCode": "133368437",
+    "tagIdOnDrop": "358322278901088268"
   },
   {
     "name": "Mol Eliza CS",
@@ -121,19 +176,34 @@
     "tagIdOnDrop": "202201925440110593"
   },
   {
+    "name": "MINI Trig",
+    "allyCode": "767715383",
+    "tagIdOnDrop": "300334264522637313"
+  },
+  {
+    "name": "MINI Tumblo Dryay",
+    "allyCode": "588388681",
+    "tagIdOnDrop": "293351503576563713"
+  },
+  {
+    "name": "MINI Violet Locke",
+    "allyCode": "765629768",
+    "tagIdOnDrop": "353180365344604171"
+  },
+  {
     "name": "Myselfi",
     "allyCode": "245881283",
     "tagIdOnDrop": "271399584524271617"
   },
   {
+    "name": "Obog",
+    "allyCode": "933794568",
+    "tagIdOnDrop": "176830136908382208"
+  },
+  {
     "name": "ParadiseJ",
     "allyCode": "741644821",
     "tagIdOnDrop": "352904307739459584"
-  },
-  {
-    "name": "Pharc",
-    "allyCode": "278337718",
-    "tagIdOnDrop": "268781097574203392"
   },
   {
     "name": "phattony99",
@@ -146,9 +216,29 @@
     "tagIdOnDrop": "180649560488673281"
   },
   {
+    "name": "Re'nzo",
+    "allyCode": "752454783",
+    "tagIdOnDrop": "635586134310649886"
+  },
+  {
     "name": "Rodz Tah",
     "allyCode": "113911979",
     "tagIdOnDrop": "202427396668915712"
+  },
+  {
+    "name": "RP93",
+    "allyCode": "179818694",
+    "tagIdOnDrop": "354217130042064896"
+  },
+  {
+    "name": "Severantic",
+    "allyCode": "275959377",
+    "tagIdOnDrop": "409772476940419072"
+  },
+  {
+    "name": "Sheep in a Jeep",
+    "allyCode": "946674269",
+    "tagIdOnDrop": "207817304489197569"
   },
   {
     "name": "Sia Granta",
@@ -156,33 +246,18 @@
     "tagIdOnDrop": ""
   },
   {
-    "name": "spud",
-    "allyCode": "956716516",
-    "tagIdOnDrop": "369292881380376576"
+    "name": "TBK 78",
+    "allyCode": "172731856",
+    "tagIdOnDrop": "191215203520610304"
+  },
+  {
+    "name": "TBK KRIS",
+    "allyCode": "299816124",
+    "tagIdOnDrop": "191204648030437376"
   },
   {
     "name": "Therion",
     "allyCode": "932894889",
     "tagIdOnDrop": "371670158776991755"
-  },
-  {
-    "name": "Trig",
-    "allyCode": "767715383",
-    "tagIdOnDrop": "300334264522637313"
-  },
-  {
-    "name": "Tumblo Dryay",
-    "allyCode": "588388681",
-    "tagIdOnDrop": "293351503576563713"
-  },
-  {
-    "name": "Violet Locke",
-    "allyCode": "765629768",
-    "tagIdOnDrop": "353180365344604171"
-  },
-  {
-    "name": "Yan",
-    "allyCode": "124733784",
-    "tagIdOnDrop": "270793401312608256"
   }
 ]
