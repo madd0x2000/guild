@@ -1,5 +1,10 @@
 [
   {
+    "name": "Arn Magnusson",
+    "allyCode": "626512134",
+    "tagIdOnDrop": "338743886237401089"
+  },
+  {
     "name": "B I G GUNZZZ",
     "allyCode": "395851796",
     "tagIdOnDrop": "523291001381584897"
@@ -30,9 +35,19 @@
     "tagIdOnDrop": "237901555343425536"
   },
   {
-    "name": "Dethedrus",
-    "allyCode": "917788736",
-    "tagIdOnDrop": "246012985456328704"
+    "name": "DarthJedi",
+    "allyCode": "919253341",
+    "tagIdOnDrop": "635221060442259458"
+  },
+  {
+    "name": "DarthPlagus CS",
+    "allyCode": "264241866",
+    "tagIdOnDrop": "237901555343425536"
+  },
+  {
+    "name": "Darthranger",
+    "allyCode": "361999815",
+    "tagIdOnDrop": "491742977903820821"
   },
   {
     "name": "Embo Raz",
@@ -70,23 +85,23 @@
     "tagIdOnDrop": "370833894309625858"
   },
   {
-    "name": "Gyro",
-    "allyCode": "279683916",
-    "tagIdOnDrop": "362939695598141441"
+    "name": "HappySimpleton",
+    "allyCode": "443872615",
+    "tagIdOnDrop": "356396265438707722"
   },
   {
-    "name": "Hiimacks",
-    "allyCode": "382481358",
-    "tagIdOnDrop": ""
+    "name": "HockeyDad04",
+    "allyCode": "194927615",
+    "tagIdOnDrop": "410431464602337290"
   },
   {
-    "name": "Hoot",
+    "name": "Illmarin",
     "allyCode": "631514828",
-    "tagIdOnDrop": "400447968404176916"
+    "tagIdOnDrop": "343321879064477697"
   },
   {
     "name": "Ilucide",
-    "allyCode": "213153143",
+    "allyCode": "767968713",
     "tagIdOnDrop": "122329857156710400"
   },
   {
@@ -120,20 +135,25 @@
     "tagIdOnDrop": "390164878729412609"
   },
   {
-    "name": "Lōrd Saber",
-    "allyCode": "665857188",
-    "tagIdOnDrop": ""
-  },
-  {
     "name": "Madd0x",
     "allyCode": "119595788",
     "tagIdOnDrop": "",
     "userIcon": ":crown:"
   },
   {
+    "name": "Marcer 1975",
+    "allyCode": "164421249",
+    "tagIdOnDrop": "400004521839034368"
+  },
+  {
     "name": "May4th",
     "allyCode": "117937827",
     "tagIdOnDrop": "327529180881485824"
+  },
+  {
+    "name": "Mik 76",
+    "allyCode": "552156312",
+    "tagIdOnDrop": "454555733095219200"
   },
   {
     "name": "MINI Coulomb",
@@ -146,11 +166,6 @@
     "tagIdOnDrop": "304705143436476416"
   },
   {
-    "name": "MINI Jeevesy",
-    "allyCode": "153178818",
-    "tagIdOnDrop": "386895684512514048"
-  },
-  {
     "name": "MINI Jorge heredia",
     "allyCode": "133368437",
     "tagIdOnDrop": "358322278901088268"
@@ -159,11 +174,6 @@
     "name": "Mol Eliza CS",
     "allyCode": "349475693",
     "tagIdOnDrop": "202201925440110593"
-  },
-  {
-    "name": "MINI Trig",
-    "allyCode": "767715383",
-    "tagIdOnDrop": "300334264522637313"
   },
   {
     "name": "MINI Tumblo Dryay",
@@ -216,6 +226,11 @@
     "tagIdOnDrop": ""
   },
   {
+    "name": "Starlord",
+    "allyCode": "375935355",
+    "tagIdOnDrop": "412940849295392789"
+  },
+  {
     "name": "TBK 78",
     "allyCode": "172731856",
     "tagIdOnDrop": "191215203520610304"
@@ -229,5 +244,10 @@
     "name": "Therion",
     "allyCode": "932894889",
     "tagIdOnDrop": "371670158776991755"
+  },
+  {
+    "name": "Trig",
+    "allyCode": "767715383",
+    "tagIdOnDrop": "300334264522637313"
   }
 ]
