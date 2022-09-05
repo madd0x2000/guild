@@ -1,15 +1,5 @@
 [
   {
-    "name": "007",
-    "allyCode": "372314297",
-    "tagIdOnDrop": "381058386520965121"
-  },
-  {
-    "name": "Alucard",
-    "allyCode": "315991536",
-    "tagIdOnDrop": "206482312085372929"
-  },
-  {
     "name": "B I G GUNZZZ",
     "allyCode": "395851796",
     "tagIdOnDrop": "523291001381584897"
@@ -20,7 +10,7 @@
     "tagIdOnDrop": "535763706928168970"
   },
   {
-    "name": "Boombox(guest)",
+    "name": "Boombox",
     "allyCode": "492388165",
     "tagIdOnDrop": "264283886408695810"
   },
@@ -68,11 +58,6 @@
     "name": "Glosed",
     "allyCode": "774747612",
     "tagIdOnDrop": "499309798186287105"
-  },
-  {
-    "name": "Gold Roger Roger",
-    "allyCode": "273146723",
-    "tagIdOnDrop": "255955465257615360"
   },
   {
     "name": "Gooman",
@@ -201,19 +186,9 @@
     "tagIdOnDrop": "271399584524271617"
   },
   {
-    "name": "Peter000",
-    "allyCode": "291314154",
-    "tagIdOnDrop": "172870727458881536"
-  },
-  {
     "name": "phattony99",
     "allyCode": "252113616",
     "tagIdOnDrop": "142432120831344641"
-  },
-  {
-    "name": "Pon Tru",
-    "allyCode": "258314944",
-    "tagIdOnDrop": "180649560488673281"
   },
   {
     "name": "Re'nzo",
