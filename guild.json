@@ -40,6 +40,11 @@
     "tagIdOnDrop": "635221060442259458"
   },
   {
+    "name": "DarthJedi",
+    "allyCode": "919253341",
+    "tagIdOnDrop": "635221060442259458"
+  },
+  {
     "name": "DarthPlagus CS",
     "allyCode": "264241866",
     "tagIdOnDrop": "237901555343425536"
@@ -53,11 +58,6 @@
     "name": "Embo Raz",
     "allyCode": "993178275",
     "tagIdOnDrop": "527663840540885002"
-  },
-  {
-    "name": "Ender",
-    "allyCode": "339814931",
-    "tagIdOnDrop": "339396898010169346"
   },
   {
     "name": "FeniX",
@@ -85,16 +85,6 @@
     "tagIdOnDrop": "370833894309625858"
   },
   {
-    "name": "HappySimpleton",
-    "allyCode": "443872615",
-    "tagIdOnDrop": "356396265438707722"
-  },
-  {
-    "name": "HockeyDad04",
-    "allyCode": "194927615",
-    "tagIdOnDrop": "410431464602337290"
-  },
-  {
     "name": "Illmarin",
     "allyCode": "631514828",
     "tagIdOnDrop": "343321879064477697"
@@ -113,6 +103,11 @@
     "name": "JakeSkywalker",
     "allyCode": "367135823",
     "tagIdOnDrop": "543322439501742092"
+  },
+  {
+    "name": "jdw",
+    "allyCode": "312966742",
+    "tagIdOnDrop": "544610807695278080"
   },
   {
     "name": "Jek Piggy Porkins III",
@@ -149,6 +144,11 @@
     "name": "May4th",
     "allyCode": "117937827",
     "tagIdOnDrop": "327529180881485824"
+  },
+  {
+    "name": "MasterKnack",
+    "allyCode": "613788268",
+    "tagIdOnDrop": "725088009967501355"
   },
   {
     "name": "Mik 76",
@@ -201,14 +201,19 @@
     "tagIdOnDrop": "142432120831344641"
   },
   {
+    "name": "Philip",
+    "allyCode": "983252811",
+    "tagIdOnDrop": "425425706932109312"
+  },
+  {
     "name": "Re'nzo",
     "allyCode": "752454783",
     "tagIdOnDrop": "635586134310649886"
   },
   {
-    "name": "Rodz Tah",
-    "allyCode": "113911979",
-    "tagIdOnDrop": "202427396668915712"
+    "name": "Scion of Bobo",
+    "allyCode": "262237169",
+    "tagIdOnDrop": "414405404500688896"
   },
   {
     "name": "Severantic",
